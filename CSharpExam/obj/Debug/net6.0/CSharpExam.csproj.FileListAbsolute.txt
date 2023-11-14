@@ -1,0 +1,14 @@
+D:\C#-Projects\CSharpExam\CSharpExam\bin\Debug\net6.0\CSharpExam.exe
+D:\C#-Projects\CSharpExam\CSharpExam\bin\Debug\net6.0\CSharpExam.deps.json
+D:\C#-Projects\CSharpExam\CSharpExam\bin\Debug\net6.0\CSharpExam.runtimeconfig.json
+D:\C#-Projects\CSharpExam\CSharpExam\bin\Debug\net6.0\CSharpExam.dll
+D:\C#-Projects\CSharpExam\CSharpExam\bin\Debug\net6.0\CSharpExam.pdb
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\CSharpExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\CSharpExam.AssemblyInfoInputs.cache
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\CSharpExam.AssemblyInfo.cs
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\CSharpExam.csproj.CoreCompileInputs.cache
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\CSharpExam.dll
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\refint\CSharpExam.dll
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\CSharpExam.pdb
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\CSharpExam.genruntimeconfig.cache
+D:\C#-Projects\CSharpExam\CSharpExam\obj\Debug\net6.0\ref\CSharpExam.dll
